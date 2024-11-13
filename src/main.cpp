@@ -1,3 +1,6 @@
+// This code reads the values from 3 potentiometers and
+// outputs them to 3 PWM pins
+
 #include <Arduino.h>
 
 void setup()
