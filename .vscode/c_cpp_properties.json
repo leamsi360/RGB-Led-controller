@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/Users/ismaelvillenagil/Desktop/Regulador_Led/include",
-                "/Users/ismaelvillenagil/Desktop/Regulador_Led/src",
+                "/Users/ismaelvillenagil/Desktop/RGB-Led-controller/include",
+                "/Users/ismaelvillenagil/Desktop/RGB-Led-controller/src",
                 "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/tinyusb",
                 "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino",
                 "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated",
@@ -39,8 +39,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/Users/ismaelvillenagil/Desktop/Regulador_Led/include",
-                    "/Users/ismaelvillenagil/Desktop/Regulador_Led/src",
+                    "/Users/ismaelvillenagil/Desktop/RGB-Led-controller/include",
+                    "/Users/ismaelvillenagil/Desktop/RGB-Led-controller/src",
                     "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/tinyusb",
                     "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino",
                     "/Users/ismaelvillenagil/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated",
